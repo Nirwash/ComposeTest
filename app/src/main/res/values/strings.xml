@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ComposeTest</string>
+    <string name="text">Create a new package inside com.raywenderlich.podplay and name it util. Next,
+add a new Kotlin ﬁle and name it DateUtils.kt with the following contents:
+</string>
+</resources>
